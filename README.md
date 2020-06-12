@@ -5,17 +5,18 @@
 
 ## Screenshot
 
-![Screenshot](images/loginerror.png)
-![Screenshot](images/register.png)
-![Screenshot](images/login.png)
-![Screenshot](images/loginsuccess.png),![Screenshot](images/Add entity.png),![Screenshot](images/Entity Saved.png)
-![Screenshot](images/Updated Entity.png),![Screenshot](images/delete task.png),![Screenshot](images/deleted.png)
-![Screenshot](images/sendmail.png),![Screenshot](images/sendingmail.png),![Screenshot](images/sendingmail.png)
-![Screenshot](images/quiz.png),![Screenshot](images/delete task.png),![Screenshot](images/court game.png)
+![Screenshot](image/loginerror.png)
+![Screenshot](image/register.png)
+![Screenshot](image/login.png)
+![Screenshot](image/loginsuccess.png),![Screenshot](image/Add entity.png),![Screenshot](image/Entity Saved.png)
+![Screenshot](image/Updated Entity.png),![Screenshot](image/delete task.png),![Screenshot](image/deleted.png)
+![Screenshot](image/sendmail.png),![Screenshot](image/sendingmail.png),![Screenshot](image/sendingmail.png)
+![Screenshot](image/quiz.png),![Screenshot](image/delete task.png),![Screenshot](image/court game.png)
 
 ## General info
 Image of use case and Architecture Components
-![Screenshot](images/Usecase.png),![Screenshot](images/viewmodel.png),![Screenshot](images/Use livedata.png)
+![Screenshot](image/Usecase.png),![Screenshot](image/viewmodel.png),![Screenshot](image/Use livedata.png)
+![Screenshot](image/Usecase.png),![Screenshot](image/viewmodel.png),![Screenshot](image/Use livedata.png)
 
 
 ## Usage
