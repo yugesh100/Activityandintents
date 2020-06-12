@@ -5,30 +5,26 @@
 
 ## Screenshot
 
-![Screenshot](image/loginerror.png)
-![Screenshot](image/register.png)
-![Screenshot](image/login.png)
-![Screenshot](image/loginsuccess.png)
-![Screenshot](image/Add entity.png)
-![Screenshot](image/Entity Saved.png)
-![Screenshot](image/Updated Entity.png)
-![Screenshot](image/delete task.png)
-![Screenshot](image/deleted.png)
-![Screenshot](image/sendmail.png)
-![Screenshot](image/sendingmail.png)
-![Screenshot](image/sendingmail.png)
-![Screenshot](image/quiz.png)
-![Screenshot](image/court game.png)
+![Screenshot](image/1.png)
+![Screenshot](image/2.png)
+![Screenshot](image/3.png)
+![Screenshot](image/4.png)
+![Screenshot](image/5.png)
+![Screenshot](image/6.png)
+![Screenshot](image/7.png)
+![Screenshot](image/8.png)
+![Screenshot](image/9.png)
+![Screenshot](image/10.png)
+![Screenshot](image/11.png)
+![Screenshot](image/12.png)
+![Screenshot](image/13.png)
+![Screenshot](image/14.png)
 
 ## General info
 Image of use case and Architecture Components
-![Screenshot](image/Usecase.png)
-![Screenshot](image/viewmodel.png)
-![Screenshot](image/Use livedata.png)
-![Screenshot](image/Usecase.png)
-![Screenshot](image/viewmodel.png)
-![Screenshot](image/Use livedata.png)
-
+![Screenshot](image/17.png)
+![Screenshot](image/18.png)
+![Screenshot](image/19.png)
 
 ## Usage
 it is use to login ,add task ,sendmail and play quiz
