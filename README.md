@@ -5,7 +5,9 @@
 
 ## Screenshot
 
-![Screenshot](images/loginerror.png),![Screenshot](images/register.png),![Screenshot](images/login.png)
+![Screenshot](images/loginerror.png)
+![Screenshot](images/register.png)
+![Screenshot](images/login.png)
 ![Screenshot](images/loginsuccess.png),![Screenshot](images/Add entity.png),![Screenshot](images/Entity Saved.png)
 ![Screenshot](images/Updated Entity.png),![Screenshot](images/delete task.png),![Screenshot](images/deleted.png)
 ![Screenshot](images/sendmail.png),![Screenshot](images/sendingmail.png),![Screenshot](images/sendingmail.png)
